@@ -1,27 +1,25 @@
-baseurl = "/"
+baseurl = "https://hungry-bhaskara-720cf0.netlify.com/"
 languageCode = "en-us"
-title = "Blackburn Theme Demo"
+title = "Training the Next Generation of Leaders"
 theme = "blackburn"
-author = "Yoshiharu Yamashita"
-copyright = "&copy; 2016. All rights reserved."
+author = "ArgosMs"
 canonifyurls = true
 paginate = 10
-
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+disableKinds = ["RSS"]
 
 [indexes]
   tag = "tags"
   topic = "topics"
-
+  post = "post"
+  
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
-  brand = "Blackburn"
-  googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
-  # CSS name for highlight.js
+  subtitle = "with the powerful language of R"
+  googleAnalytics = "UA-139013563-1"
   highlightjs = "androidstudio"
-  dateFormat = "02 Jan 2006, 15:04"
+  dateFormat = "02 Jan 2006"
+  highlightjs_extra_languages = ["r", "yaml"]
 
 [menu]
   # Shown in the side menu.
@@ -38,23 +36,36 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     identifier = "post"
     url = "/post/"
   [[menu.main]]
-    name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    name = "Tags"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
     weight = 3
-    identifier = "about"
-    url = "/about/"
+    identifier = "tag"
+    url = "/tags/"
   [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
+    name = "Labs"
+    pre = "<i class='fa fa-binoculars fa-fw'></i>"
     weight = 4
+    identifier = "lab"
+    url = "/labs/"
+  [[menu.main]]
+    name = "Leadership"
+    pre = "<i class='fa fa-globe fa-fw'></i>"
+    weight = 5
+    identifier = "leadership"
+    url = "/leadership/"
+  [[menu.main]]
+    name = "Email"
+    pre = "<i class='fa fa-paper-plane fa-fw'></i>"
+    weight = 6
     url = "/contact/"
-
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-camera-retro fa-fw'></i>"
+    weight = 7
+    url = "/about/"
+    
 [social]
-  # Link your social networking accouns to the side menu
-  # by entering your username or ID.
-  twitter = "*"
-  facebook = "*"
-  instagram = "*"
-  github = "yoshiharuyamashita"
-  stackoverflow = "*"
-  linkedin = "*"
+    github = "ArgosMs"
+  
+  
+  
