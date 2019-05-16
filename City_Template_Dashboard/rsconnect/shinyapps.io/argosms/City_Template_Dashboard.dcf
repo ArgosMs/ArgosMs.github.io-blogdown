@@ -1,0 +1,12 @@
+name: City_Template_Dashboard
+title: City_Template_Dashboard
+username:
+account: argosms
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 906251
+bundleId: 2067360
+url: https://argosms.shinyapps.io/City_Template_Dashboard/
+when: 1557261919.40802
+asMultiple: FALSE
+asStatic: FALSE
