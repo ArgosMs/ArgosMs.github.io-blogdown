@@ -1,7 +1,7 @@
 ---
 title: I made my first web application in just few minutes!
 author: ArgosMs
-date: '2019-04-29'
+date: '2019-04-28'
 slug: i-made-my-first-web-application-in-just-few-minutes
 categories:
   - Shiny
