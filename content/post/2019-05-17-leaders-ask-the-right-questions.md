@@ -23,5 +23,5 @@ This type of problem-based approach to initiate students in critical thinking ha
 
 The main benefits of being a leader with sharpen critical thinking skills are not only being able to make better decisions for yourself and encouraging collaborators to be independent [thinkers](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/making-critical-thinking-a-classroom-reality/163B8481EA5000C33A82F5E7B9867DF9) but also the confidence, translated in the form of excitment, to realize that one has the ability to be [adaptable](https://journals.sagepub.com/doi/abs/10.1177/0002764293037001014) after listening to opinions and before reaching a conclusion, which is hardly ever definitive.
 
-And this is an [exercise](https://www.lavc.edu/profdev/library/docs/promotethink.aspx) to help you start working on asking questions to prompt critical thinking.
+This is an [exercise](https://www.lavc.edu/profdev/library/docs/promotethink.aspx) to help you start working on asking questions to prompt critical thinking.
 
