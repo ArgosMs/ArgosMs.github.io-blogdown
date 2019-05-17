@@ -17,7 +17,7 @@ topics: []
 
 ***
 
-######[*Linda Liukas*](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers/transcript?language=en): ‘And that is how programming started for me. It started as a means of self-expression.’
+[*Linda Liukas*](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers/transcript?language=en): ‘And that is how programming started for me. It started as a means of self-expression.’
 
 ***
 
