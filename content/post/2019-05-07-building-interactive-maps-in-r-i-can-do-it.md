@@ -1,5 +1,5 @@
 ---
-title: 'Building Interactive Maps in R: I can do it!'
+title: 'Building interactive maps in R: I can do it!'
 author: ArgosMs
 date: '2019-05-07'
 slug: building-interactive-maps-in-r-i-can-do-it
