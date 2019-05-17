@@ -1,7 +1,7 @@
 ---
 title: Leaders ask the right questions
 author: ArgosMs
-date: '2019-05-18'
+date: '2019-05-17'
 slug: leaders-ask-the-right-questions
 categories:
   - Leadership
