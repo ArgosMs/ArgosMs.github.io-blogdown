@@ -29,7 +29,6 @@ Let's get to work!
 ***
 
 ```{r}
-#install.packages("leaflet")
 library(leaflet)
 ```
 
