@@ -10,3 +10,4 @@ title = "Leadership Training"
 
 >- [Leaders know. But how do they know what they know?](https://hungry-bhaskara-720cf0.netlify.com/post/leaders-know-but-how-do-they-know-what-they-know/)
 
+>- [Great leaders are experienced storytellers](https://hungry-bhaskara-720cf0.netlify.com/post/great-leaders-are-experienced-storytellers/)
