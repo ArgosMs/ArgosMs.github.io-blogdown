@@ -1,7 +1,7 @@
 ---
 title: RMarkdown is easy to learn!
 author: ArgosMs
-date: '2019-05-16'
+date: '2019-04-29'
 slug: rmarkdown-is-easy-to-learn
 categories: []
 tags:
