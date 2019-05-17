@@ -16,7 +16,9 @@ topics: []
 ---
 
 ***
+
 ######[*Linda Liukas*](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers/transcript?language=en): ‘And that is how programming started for me. It started as a means of self-expression.’
+
 ***
 
 This blog has two goals. First, advocate the transformation of college students into [citizen developers](https://readwrite.com/2013/07/15/the-rise-of-the-citizen-developer/). Second, ‘sell’ programming to college administrators so that students from all majors can be trained to effectively used this skill before and after graduation.
