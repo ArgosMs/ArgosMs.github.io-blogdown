@@ -1,7 +1,7 @@
 ---
 title: 'My first public budgeting in R: it is super easy and awesome!'
 author: ArgosMs
-date: '2019-05-16'
+date: '2019-05-01'
 slug: my-first-public-budgeting-in-r-it-is-super-easy-and-awesome
 categories:
   - budgetr
