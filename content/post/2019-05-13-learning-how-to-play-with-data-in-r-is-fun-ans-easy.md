@@ -1,7 +1,7 @@
 ---
 title: Learning how to play with data in R is fun and easy!
 author: ArgosMs
-date: '2019-05-13'
+date: '2019-05-15'
 slug: learning-how-to-play-with-data-in-r-is-fun-and-easy
 categories:
   - R
