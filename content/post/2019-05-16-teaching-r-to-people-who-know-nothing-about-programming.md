@@ -1,8 +1,8 @@
 ---
-title: Teaching R to people who know nothing about programming
+title: Teaching R to first time programmers
 author: ArgosMs
-date: '2019-05-16'
-slug: teaching-r-to-people-who-know-nothing-about-programming
+date: '2019-04-05'
+slug: teaching-r-to-first-time-programmers
 categories:
   - R
 tags:

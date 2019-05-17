@@ -1,7 +1,7 @@
 ---
 title: Leaders set goal(s). What is yours?
 author: ArgosMs
-date: '2019-05-15'
+date: '2019-05-12'
 slug: leaders-set-goal-s-what-is-yours
 categories:
   - Leadership

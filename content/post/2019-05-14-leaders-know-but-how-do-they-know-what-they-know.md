@@ -1,7 +1,7 @@
 ---
 title: Leaders know. But how do they know what they know?
 author: ArgosMs
-date: '2019-05-14'
+date: '2019-05-11'
 slug: leaders-know-but-how-do-they-know-what-they-know
 categories:
   - Leadership

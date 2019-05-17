@@ -1,7 +1,7 @@
 ---
 title: Love .Rmd, do not hate .xml
 author: ArgosMs
-date: '2019-05-16'
+date: '2019-04-10'
 slug: love-rmd-do-not-hate-xml
 categories:
   - RMarkdown
