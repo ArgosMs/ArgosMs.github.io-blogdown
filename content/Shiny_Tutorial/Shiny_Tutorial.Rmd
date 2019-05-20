@@ -1,0 +1,178 @@
+---
+title: "I made my first web application in just few minutes!"
+author: "ArgosMs"
+date: "April 29, 2019"
+output: html_document
+---
+
+***
+
+Find here what is [Shiny](https://www.rstudio.com/products/shiny-2/).
+
+If you want a comprehesive tutorial, click [here](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/).
+
+If you learn better listening, check this excellent [3-part](https://shiny.rstudio.com/tutorial/) video tutorials.
+
+Okay, let's roll!
+
+***
+
+In RStudio: `File > New File > Shiny App Web`
+
+Create a name in `Application Name` and click on `Create`
+
+This is what to see, right?
+
+***
+
+![](C:/Users/NewUser/Documents/Shiny_Tutorial/Shiny_Tutorial_image_0.png)
+
+***
+
+```{r, echo=FALSE}
+# This is a Shiny web application. You can run the application by clicking
+# the 'Run App' button above.
+#
+# Find out more about building applications with Shiny here:
+#
+#    http://shiny.rstudio.com/
+#
+
+library(shiny)
+
+# Define UI for application that draws a histogram
+ui <- fluidPage(
+   
+   # Application title
+   titlePanel("Old Faithful Geyser Data"),
+   
+   # Sidebar with a slider input for number of bins 
+   sidebarLayout(
+      sidebarPanel(
+         sliderInput("bins",
+                     "Number of bins:",
+                     min = 1,
+                     max = 50,
+                     value = 30)
+      ),
+      
+      # Show a plot of the generated distribution
+      mainPanel(
+         plotOutput("distPlot")
+      )
+   )
+)
+
+# Define server logic required to draw a histogram
+server <- function(input, output) {
+   
+   output$distPlot <- renderPlot({
+      # generate bins based on input$bins from ui.R
+      x    <- faithful[, 2] 
+      bins <- seq(min(x), max(x), length.out = input$bins + 1)
+      
+      # draw the histogram with the specified number of bins
+      hist(x, breaks = bins, col = 'darkgray', border = 'white')
+   })
+}
+
+# Run the application 
+shinyApp(ui = ui, server = server)
+```
+
+***
+
+Click on `Knit`
+
+***
+
+You see this now, correct?
+
+***
+
+![](C:/Users/NewUser/Documents/Shiny_Tutorial/Shiny_Tutorial_image_1.png)
+
+***
+
+Excellent! 
+
+You have built your first Shiny app! And perhaps your first -- of many -- web apps, right?
+
+***
+
+Let's now show your great work to the world! 
+
+More information on how to deploy your app to the web [here](https://shiny.rstudio.com/deploy/)
+
+***
+
+`Sign up` to `shinyapps.io` if you do not have an account yet.
+
+***
+
+Log in and follow the three steps:
+
+i) Install 'rsconnect' `install.packages('rsconnect')`
+ii) Authorize Account
+iii) Deploy
+
+***
+
+If you run into error messages like this
+
+`Error in library(...) : there is no package called ...`
+
+Just install `install.packages()` the package `R` is asking you 
+and make it available using `library()`
+
+Wait for a few seconds... Voilà!
+
+Your app is up and running: `https://argosms.shinyapps.io/shiny_tutorial/` for the world to see!
+
+***
+
+![](C:/Users/NewUser/Documents/Shiny_Tutorial/Shiny_Tutorial_image_2.png)
+
+***
+
+### Challenge 1
+
+in `app.R`: What is `ui`? What is `server`?
+
+***
+
+### Challenge 2
+
+in `app.R`, under `sliderInput`: play with the numbers in `min` `max` `value`
+
+then `save` and click on `Run app`. Can you see the changes?
+
+***
+
+### Challenge 3
+
+Add a [widget](https://shiny.rstudio.com/gallery/widget-gallery.html) to your app.
+**Hint**: think about `input` and `output`
+
+***
+
+[Examples](https://www.showmeshiny.com/) of Shiny apps.
+
+***
+
+#### I want more!
+
+Another [tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/), and one [more](https://www.listendata.com/2018/02/shiny-tutorial-r.html), and one [more](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
+
+[Resources](https://bookdown.org/weicheng/shinyTutorial/resources.html)
+
+***
+
+
+
+
+
+
+
+
+
