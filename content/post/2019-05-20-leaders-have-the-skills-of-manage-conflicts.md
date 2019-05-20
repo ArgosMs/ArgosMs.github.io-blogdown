@@ -13,7 +13,7 @@ topics: []
 
 ***
 
-[Conflict resolution](https://www.pon.harvard.edu/daily/conflict-resolution/what-is-conflict-resolution-and-how-does-it-work/) is one, if not the main one, of the main challenges leaders face on a daily basis. And the probem is that conflicts come from everywhere and all types of forms and shapes. To make maters worse, many of these conflicts are [unexpected](https://science.sciencemag.org/content/317/5841/1039) and require immediate action to avoid them to escalate and lead to negative outcomes.
+[Conflict resolution](https://www.pon.harvard.edu/daily/conflict-resolution/what-is-conflict-resolution-and-how-does-it-work/) is one, if not the main one, of the main challenges leaders face on a daily basis. But the problem is that conflicts come from everywhere and all types of forms and shapes. To make maters worse, many of these conflicts are [unexpected](https://science.sciencemag.org/content/317/5841/1039) and require immediate action to avoid them to escalate and lead to negative outcomes.
 
 Successful leaders are trained to effectively manage conflicts. Essentially they combine communication and analytical skills. The communication skills have to do with their emotional and [personal](https://www.emeraldinsight.com/doi/full/10.1108/02621710510584026) skills. Analytical skills are observed when leaders look for [facts](https://link.springer.com/article/10.1007/BF00289432) and further details and opinions when mediating conflicts.
 
