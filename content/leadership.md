@@ -13,3 +13,5 @@ title = "Leadership Training"
 >- [Great leaders are experienced storytellers](https://hungry-bhaskara-720cf0.netlify.com/post/great-leaders-are-experienced-storytellers/)
 
 >- [Leaders ask the right questions](https://hungry-bhaskara-720cf0.netlify.com/post/leaders-ask-the-right-questions/)
+
+>- [Leaders have the skills to manage conflicts](https://hungry-bhaskara-720cf0.netlify.com/post/leaders-have-the-skills-of-manage-conflicts/)
