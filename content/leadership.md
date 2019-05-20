@@ -15,3 +15,5 @@ title = "Leadership Training"
 >- [Leaders ask the right questions](https://hungry-bhaskara-720cf0.netlify.com/post/leaders-ask-the-right-questions/)
 
 >- [Leaders have the skills to manage conflicts](https://hungry-bhaskara-720cf0.netlify.com/post/leaders-have-the-skills-of-manage-conflicts/)
+
+>- [Leaders network: online!](https://hungry-bhaskara-720cf0.netlify.com/post/leaders-network-online/)
