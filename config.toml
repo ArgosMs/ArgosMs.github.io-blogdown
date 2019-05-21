@@ -41,7 +41,7 @@ disableKinds = ["RSS"]
     identifier = "tag"
     url = "/tags/"
   [[menu.main]]
-    name = "Labs"
+    name = "R Labs"
     pre = "<i class='fa fa-binoculars fa-fw'></i>"
     weight = 4
     identifier = "lab"
