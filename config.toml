@@ -53,14 +53,20 @@ disableKinds = ["RSS"]
     identifier = "leadership"
     url = "/leadership/"
   [[menu.main]]
+    name = "Innovation"
+    pre = "<i class='fa fa-lightbulb fa-fw'></i>"
+    weight = 6
+    identifier = "innovation"
+    url = "/innovation/"
+  [[menu.main]]
     name = "Email"
     pre = "<i class='fa fa-paper-plane fa-fw'></i>"
-    weight = 6
+    weight = 7
     url = "/contact/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-camera-retro fa-fw'></i>"
-    weight = 7
+    weight = 8
     url = "/about/"
     
 [social]
