@@ -1,5 +1,5 @@
 ---
-title: Become an Innovator!
+title: Become an innovator!
 author: ArgosMs
 date: '2019-05-21'
 slug: become-an-innovator
