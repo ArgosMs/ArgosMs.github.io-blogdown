@@ -54,7 +54,7 @@ disableKinds = ["RSS"]
     url = "/leadership/"
   [[menu.main]]
     name = "Innovation"
-    pre = "<i class='fa fa-lightbulb fa-fw'></i>"
+    pre = "<i class='fa fa-lightbulb-o fa-fw'></i>"
     weight = 6
     identifier = "innovation"
     url = "/innovation/"
