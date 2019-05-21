@@ -27,7 +27,7 @@ Successful innovators can quickly [pitch](http://www.mrgriffin.org/FHSWEB/ENT/ar
 
 These labs on innovation, therefore, will help you polish your ideas and help you strategically think how you can find, connect and work with people that will help you turn your idea into reality. 
 
-This [exercise](https://www.creatlr.com/template/TAyVOS99Dq2hPirLHm5jsh/elevator-pitch-canvas/) will set you on the right path to start thinking about your pitch!
+This [exercise](https://www.creatlr.com/template/TAyVOS99Dq2hPirLHm5jsh/elevator-pitch-canvas/) sets you on the right path to start thinking about your perfect pitch!
 
 
 
