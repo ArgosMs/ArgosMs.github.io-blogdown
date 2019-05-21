@@ -1,7 +1,7 @@
 ---
 title: Your idea is amazing but put it to test
 author: ArgosMs
-date: '2019-05-21'
+date: '2019-04-22'
 slug: your-idea-is-amazing-but-put-it-to-test
 categories:
   - Innovation
