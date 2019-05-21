@@ -23,9 +23,9 @@ Innovators live on [momentum and synergy](https://www.emailout.com/maintain-star
 
 Clarity around the definition, relevance and recommended [solutions](http://pedrotrillo.com/wp-content/uploads/2016/01/Whatisdisruptiveinnovation.pdf) for the problem to be tackled is critical to create momentum around an idea. Collaborators, advisors, investors, they all want to know if you can explain in few words the 'what, why and how' [questions](https://www.score.org/blog/elevator-pitch-what-why-and-how) about the problem you are interested in. 
 
-Successful innovators can quickly [pitch](http://www.mrgriffin.org/FHSWEB/ENT/articles/ThePerfectElevatorPitch.pdf) their ideas and easily get their message across. Nonetheless, the process to get to this stage requires planning, [thinking](https://www.entrepreneur.com/article/238545) and many [iterations](https://search.proquest.com/openview/24ef056270cbe1f56d751ef5807a26ac/1?cbl=47961&pq-origsite=gscholar). A perfect pitch does not come to life overnight! 
+Successful innovators can quickly [pitch](http://www.mrgriffin.org/FHSWEB/ENT/articles/ThePerfectElevatorPitch.pdf) their ideas and easily get their messages across. Nonetheless, the process to get to this stage requires planning, [thinking](https://www.entrepreneur.com/article/238545) and many [iterations](https://search.proquest.com/openview/24ef056270cbe1f56d751ef5807a26ac/1?cbl=47961&pq-origsite=gscholar). A perfect pitch does not come to life overnight! 
 
-These labs on innovation, therefore, will help you polish your ideas and help you strategically think how you can find, connect and work with people that will help you turn your idea into reality. 
+These labs on innovation will help you polish your ideas and help you strategically think how you can find, connect and work with people that will help you turn your idea into reality. 
 
 This [exercise](https://www.creatlr.com/template/TAyVOS99Dq2hPirLHm5jsh/elevator-pitch-canvas/) sets you on the right path to start thinking about your perfect pitch!
 
