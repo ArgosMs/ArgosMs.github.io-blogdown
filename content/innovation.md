@@ -7,3 +7,5 @@ title = "Innovation"
 >- [Your idea is amazing but put it to test](https://hungry-bhaskara-720cf0.netlify.com/post/your-idea-is-amazing-but-put-it-to-test/)
 
 >- [Innovators do market research](https://hungry-bhaskara-720cf0.netlify.com/post/innovators-do-market-research/)
+
+>- [Innovators move fast](https://hungry-bhaskara-720cf0.netlify.com/post/innovators-move-fast/)
