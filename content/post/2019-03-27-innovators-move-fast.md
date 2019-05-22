@@ -1,7 +1,7 @@
 ---
 title: Innovators move fast
 author: ArgosMs
-date: '2019-03-27'
+date: '2019-05-22'
 slug: innovators-move-fast
 categories:
   - Innovation
