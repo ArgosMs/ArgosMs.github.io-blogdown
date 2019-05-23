@@ -22,7 +22,7 @@ Innovators [share](https://search.proquest.com/docview/1678629553?pq-origsite=gs
 
 *Fourth*, they present which action has finally worked, why, and how this solution has changed the way they see the problem. Here presenters also share how this solution has positively affected their community.
 
-*Fifth*, they show to the audience that their solution has drawn attention from their community and that they have shared their 'invention' with people that face the same challenges as they do.
+*Fifth*, they show to the audience that their solution has drawn attention from their community and that they have shared their 'invention' with people facing similar challenges.
 
 *Sixth*, they present what they have achieved so far and what they plan to achieve in the near future if they are given more chances to pursue their passion.
 
