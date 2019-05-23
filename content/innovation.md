@@ -9,3 +9,5 @@ title = "Innovation"
 >- [Innovators do market research](https://hungry-bhaskara-720cf0.netlify.com/post/innovators-do-market-research/)
 
 >- [Innovators move fast](https://hungry-bhaskara-720cf0.netlify.com/post/innovators-move-fast/)
+
+>- [Speak out your passion](https://hungry-bhaskara-720cf0.netlify.com/post/speak-out-your-passion/)
