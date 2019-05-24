@@ -13,3 +13,4 @@ title = "Innovation"
 >- [Speak out your passion](https://hungry-bhaskara-720cf0.netlify.com/post/speak-out-your-passion/)
 
 >- [Stay put: start right there!](https://hungry-bhaskara-720cf0.netlify.com/post/stay-put-start-right-there/)
+>- [Flying solo?](https://hungry-bhaskara-720cf0.netlify.com/post/flying-solo/)
