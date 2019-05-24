@@ -31,7 +31,7 @@ iv) Would I enjoy spending a lot of time talking about product development, mana
 
 v) Does this person get things done? Is committed? Is trustful? Share the same vision? Will have my back?
 
-These are only [few](https://www.linkedin.com/pulse/20140711101112-12534154-how-to-choose-a-co-founder-for-your-startup) initial questions to help start thinking about whether you need a co-founder(s). And if so, where you should start [looking at](https://heymama.co/how-to-choose-a-co-founder/). 
+These are only [few](https://www.linkedin.com/pulse/20140711101112-12534154-how-to-choose-a-co-founder-for-your-startup) initial questions to help you start thinking about whether you need a co-founder(s). And if so, where you should start [looking at](https://heymama.co/how-to-choose-a-co-founder/). 
 
 Everything starts from within. Essentially the more you know about you, the more you know where you suck and where you thrive. Your [co-founder](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1604653) will be the person that thrives where you suck and sucks where you thrive. 
 
