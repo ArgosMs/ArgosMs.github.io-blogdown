@@ -14,3 +14,5 @@ title = "Innovation"
 
 >- [Stay put: start right there!](https://hungry-bhaskara-720cf0.netlify.com/post/stay-put-start-right-there/)
 >- [Flying solo?](https://hungry-bhaskara-720cf0.netlify.com/post/flying-solo/)
+
+>- [Jelling teams](https://hungry-bhaskara-720cf0.netlify.com/post/jelling-teams/)
