@@ -15,7 +15,7 @@ topics: []
 
 Mentors tell where you are wrong. They make you think. They make you uncomfortable. They help your idea gain [traction](https://medium.com/@yegg/78-takeaways-from-traction-book-1b44d2a03dda) and succeed.
 
-Entrepreneurs need [mentors](https://journals.sagepub.com/doi/abs/10.1177/107179190000700304). Mentors are those that listen well and by repeating what you are telling them they show where positions collide and contradict. They also provide an overview of the [gaps](https://medium.com/@Rubik.Hub/how-do-you-choose-the-right-mentor-for-your-startup-4bef3c0c868f) in your action plan and how to fill these gaps. 
+Innovators need [mentors](https://journals.sagepub.com/doi/abs/10.1177/107179190000700304). Mentors are those that listen well and by repeating what you are telling them they show where positions collide and contradict. They also provide an overview of the [gaps](https://medium.com/@Rubik.Hub/how-do-you-choose-the-right-mentor-for-your-startup-4bef3c0c868f) in your action plan and how to fill these gaps. 
 
 The best mentor is the one who has a track record of getting things done. You will more easily trust mentors' advice if you know that they have been where you are and circumvented a similar problem you are now dealing with. 
 
