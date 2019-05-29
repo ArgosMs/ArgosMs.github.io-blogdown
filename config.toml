@@ -60,7 +60,7 @@ disableKinds = ["RSS"]
     url = "/innovation/"
   [[menu.main]]
     name = "Public Policy"
-    pre = "<i class='fa fa-capitol fa-fw'></i>"
+    pre = "<i class='fa fa-university fa-fw'></i>"
     weight = 7
     identifier = "public_policy"
     url = "/public_policy/"
