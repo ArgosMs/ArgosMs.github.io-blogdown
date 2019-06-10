@@ -2,6 +2,11 @@
 title = "R Labs"
 +++
 
+>- [Less consumers, more creators: every college student should be given a chance to become citizen developer](https://hungry-bhaskara-720cf0.netlify.com/post/less-consumers-more-creators-every-college-student-should-be-given-a-chance-to-become-citizen-developer/) 
+
+>- [Teaching R to first time programmers](https://hungry-bhaskara-720cf0.netlify.com/post/teaching-r-to-first-time-programmers/)
+
+>- [Love .Rmd, do not hate .xml](https://hungry-bhaskara-720cf0.netlify.com/post/love-rmd-do-not-hate-xml/)
 
 >- [RMarkdown is easy to learn!](https://jolly-blackwell-61e18b.netlify.com/post/rmarkdown-is-easy-to-learn/)
 
