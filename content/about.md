@@ -8,7 +8,7 @@ Hi! My codename is 'ArgosMs'. This is the closest I have ever got to become a su
 
 I have been on the road for a while. Born and raised in the hyper megalopolis of [Sao Paulo](https://www.youtube.com/watch?v=8bwcUdMo3R4) but actually the product of war and poverty (so I am a loose end of sheer luck, *I guess*). 
 
-"Obatian"" and "Oditian" fled poverty in [Okinawa](https://www.youtube.com/watch?v=gPzf2UlvqK4) and "Babcia" and "дідусь" reconnected with [their](https://www.youtube.com/watch?v=nXnstmYu5nM) [communities](https://www.youtube.com/watch?v=cV0wGj6DzYE) in southern Brazil after running for their lives in Eastern Europe.  
+"オバチアン" and "オディチアン" fled poverty in [Okinawa](https://www.youtube.com/watch?v=gPzf2UlvqK4) and "Babcia" and "дідусь" reconnected with [their](https://www.youtube.com/watch?v=nXnstmYu5nM) communities in southern Brazil after running for their lives in Eastern Europe.  
 
 Backpacked on a shoestring all over [South America](https://www.youtube.com/watch?v=R35URiT_fm8) and [Europe](https://www.youtube.com/watch?v=fWydEjyNsQY). Tried not to get killed snowboarding in [British Columbia](https://www.youtube.com/watch?v=TVfpfzcIBZs) and [California](https://www.youtube.com/watch?v=RVA9fma3wq8). Survived kitesurfing at scorching [beaches](https://www.youtube.com/watch?v=te9YZsltyGY).
 
