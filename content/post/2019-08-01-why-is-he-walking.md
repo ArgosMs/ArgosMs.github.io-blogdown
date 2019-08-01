@@ -14,7 +14,7 @@ topics: []
 
 My four-year-old son has asked me today the following as we were riding our bikes to his childcare:
 
-'Dad, why is this man walking? He is *always* walking. Is this because he doesn't have a car? Is this because he can't buy a car, so he needs to walk?'
+'Papai, why is this man walking? He is *always* walking. Is this because he doesn't have a car? Is this because he can't buy a car, so he needs to walk?'
 
 I said he must be right about all these assumptions. In a few years, however, I will add few more layers to his linear reasoning.
 
