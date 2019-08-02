@@ -1,6 +1,6 @@
 baseurl = "https://e-lle-phant.com/"
 languageCode = "en-us"
-title = "Training the Next Generation of Harbingers"
+title = "Training the Next Generation of Thoughtful Leaders"
 theme = "blackburn"
 author = "ArgosMs"
 canonifyurls = true
@@ -14,7 +14,7 @@ disableKinds = ["RSS"]
   
 [params]
   # Shown in the home page
-  subtitle = "with the powerful language of R"
+  subtitle = "creative media & data science & critical thinking"
   googleAnalytics = "UA-139013563-1"
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006"
