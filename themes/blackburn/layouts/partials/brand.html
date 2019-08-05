@@ -3,8 +3,9 @@
 {{ end }}
 {{ with .Site.Params.subbrand }}
 <div>
-  <div class="medium-print">
-      <small>{{ . | safeHTML }}</small>
+  #<div class="medium-print">
+    <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
+      #<small>{{ . | safeHTML }}</small>
   </div>
 </div>
 {{ end }}
