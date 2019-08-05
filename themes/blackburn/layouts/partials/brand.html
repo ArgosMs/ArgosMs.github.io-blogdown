@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div."small-print" {
-  line-height: .5;
-}
-</style>
-</head>
-<body>
-
 {{ with .Site.Params.brand }}
   <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
 {{ end }}
@@ -21,18 +10,6 @@ div."small-print" {
  {{ with .Site.Params.subbrand_2 }}
    <div class="small-print">
     <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
-{{ end }}
   </div>
-  {{ with .Site.Params.subbrand_3 }}
-    <div class="small-print">
-    <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
 {{ end }}
-   </div>
-   {{ with .Site.Params.subbrand_4 }}
-     <div class="small-print">
-    <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
-    </div>
-{{ end }}
-
-</body>
-</html>
+  
