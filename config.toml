@@ -15,7 +15,7 @@ disableKinds = ["RSS"]
 [params]
   # Shown in the home page
   subtitle = "training harbingers to craft powerful stories that delight communities"
-  brand = "![](/content/img/The_Ellephant_writing.png)"
+  brand = "static/path/to/The_Ellephant_writing.png"
   googleAnalytics = "UA-139013563-1"
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006"
