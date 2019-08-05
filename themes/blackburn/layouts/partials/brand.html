@@ -1,20 +1,24 @@
 {{ with .Site.Params.brand }}
   <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
 {{ end }}
+
 {{ with .Site.Params.subbrand_1 }}
   <div class="small-print">
     <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
-      </div>
-      {{ with .Site.Params.subbrand_2 }}
+{{ end }}
+</div>
+{{ with .Site.Params.subbrand_2 }}
    <div class="small-print">
     <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
-      </div>
-      {{ with .Site.Params.subbrand_3 }}
+{{ end }}
+</div>
+{{ with .Site.Params.subbrand_3 }}
     <div class="small-print">
     <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
-      </div>
-      {{ with .Site.Params.subbrand_4 }}
+{{ end }}
+</div>
+{{ with .Site.Params.subbrand_4 }}
      <div class="small-print">
     <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
-      </div>
+    </div>
 {{ end }}
