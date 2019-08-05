@@ -1,7 +1,7 @@
 <html>
 <head>
 <style>
-div.b {
+div."small-print" {
   line-height: .5;
 }
 </style>
@@ -14,21 +14,21 @@ div.b {
 
 {{ with .Site.Params.subbrand_1 }}
   <div class="small-print">
-    <b class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</b>
+    <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
 {{ end }}
  </div>
  {{ with .Site.Params.subbrand_2 }}
    <div class="small-print">
-    <b class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</b>
+    <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
 {{ end }}
   </div>
   {{ with .Site.Params.subbrand_3 }}
     <div class="small-print">
-    <b class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</b>
+    <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
 {{ end }}
    </div>
    {{ with .Site.Params.subbrand_4 }}
      <div class="small-print">
-    <c class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</c>
+    <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
     </div>
 {{ end }}
