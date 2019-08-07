@@ -14,7 +14,7 @@ disableKinds = ["RSS"]
   
 [params]
   # Shown in the home page
-  subtitle = "training harbingers to craft" "<span style=color:#4056A1> powerful </span>" "stories that brighten up communities"
+  subtitle = "training harbingers to craft <span style=color:#4056A1> powerful </span> stories that brighten up communities"
   brand = "e-LLE-phant"
   #"<img src=/img/The_Ellephant_writing_white.png style=width:140px;height:50px; align=center/>"
   subbrand_1 = "crafting...<br><br> creative.<br> thoughtful. <br> data. <br><br> stories."
