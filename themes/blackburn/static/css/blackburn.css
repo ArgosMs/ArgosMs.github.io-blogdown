@@ -3,7 +3,7 @@
 }
 
 a {
-  color: #AFD275;
+  color: #E7717D;
   text-decoration: none;
 }
 a:hover,
@@ -11,7 +11,7 @@ a:focus {
   text-decoration: underline;
 }
 a:visited {
-  color: #E7717D;
+  color: #AFD275;
 }
 
 .small-print {
