@@ -1,7 +1,7 @@
 baseurl = "https://e-lle-phant.com/"
 languageCode = "en-us"
 title = "be kind. be fierce. cha-LLE-nge."
-theme = "blackburn"
+theme = "ArgosMs/blackburn"
 author = "ArgosMs"
 canonifyurls = true
 paginate = 10
