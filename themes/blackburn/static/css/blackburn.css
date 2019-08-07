@@ -69,7 +69,8 @@ article > footer {
 
 #menu .pure-menu {
   font-family: Nexa;
-  font-size: 0.9em;
+  font-size: 0.7em;
+  color: #4056A1;
 }
 
 #menu .pure-menu ul.pure-menu-children {
