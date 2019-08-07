@@ -58,7 +58,7 @@ article > footer {
 #menu .brand {
   font-family: Nexa;
   font-weight: bold;
-  font-size: 1em;
+  font-size: 1.1em;
   color: #D79922;
   letter-spacing: 0.1em;
   text-transform: none;
@@ -69,8 +69,7 @@ article > footer {
 
 #menu .pure-menu {
   font-family: Nexa;
-  font-size: 0.7em;
-  color: #4056A1;
+  font-size: 0.8em;
 }
 
 #menu .pure-menu ul.pure-menu-children {
