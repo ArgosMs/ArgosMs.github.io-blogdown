@@ -3,7 +3,7 @@
 }
 
 a {
-  color: #E7717D;
+  color: #F52549;
   text-decoration: none;
 }
 a:hover,
@@ -11,7 +11,7 @@ a:focus {
   text-decoration: underline;
 }
 a:visited {
-  color: #AFD275;
+  color: #9BC01C;
 }
 
 .small-print {
@@ -59,7 +59,7 @@ article > footer {
   font-family: Nexa;
   font-weight: bold;
   font-size: 1.1em;
-  color: #4056A1;
+  color: #2D4262;
   letter-spacing: 0.1em;
   text-transform: none;
   background: transparent;
@@ -87,5 +87,5 @@ i {
 }
 
 .pagination a {
-  color: #265778;
+  color: #2D4262;
 }
