@@ -15,7 +15,7 @@ disableKinds = ["RSS"]
 [params]
   # Shown in the home page
   subtitle = "training harbingers to craft powerful stories that brighten up communities"
-  brand = "<img src=/img/e-lle-phant_logo.png style=width:140px;height:50px; align=center/>"
+  brand = "<img src=/img/e-lle-phant_logo.png style=width:150px;height:70px; align=center/>"
   subbrand_1 = "creative.<br> thoughtful. <br> data. <br><br> stories"
   #subbrand_2 = "stories"
   googleAnalytics = "UA-139013563-1"
