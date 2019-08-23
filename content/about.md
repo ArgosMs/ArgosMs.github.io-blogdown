@@ -1,5 +1,5 @@
 +++
-title = "'m: oyabaka. aficionado. éducateur. in this order."
+title = "'m: oyabaka. aficionado. éducateur. nesta ordem."
 +++
 
 <img src="/img/about.jpg", style="width:130px; height:280px;", align="right"/>
