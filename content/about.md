@@ -16,9 +16,9 @@ Humbled by many ocean-sun-rise-set in [Hawaii](https://www.youtube.com/watch?v=i
 
 Fell in love, literally, with [Japan](https://www.youtube.com/watch?v=ccupD_IIN1U). Felt at home across [Southeast Asia's](https://www.youtube.com/channel/UCyEd6QBSgat5kkC6svyjudA) food markets. Eclipsed by [aurora borealis](https://www.youtube.com/watch?v=w6CIjWpd3bE). 
 
-Had a blast in [Oz](https://www.youtube.com/watch?v=ACVBan55U1U), where I also mastered the art of [standing nappy changes](https://www.youtube.com/watch?v=c2WtGd9W-co).
+Had a blast in [Oz](https://www.youtube.com/watch?v=ACVBan55U1U), where I also mastered the art of [standing nappy changes](https://www.youtube.com/watch?v=c2WtGd9W-co). And put some good miles travelling around the [Howdy land](https://www.youtube.com/watch?v=XlFD0Zyl_f0).
 
-And now in [Howdy land](https://www.youtube.com/watch?v=XlFD0Zyl_f0) getting ready for our next adventure! Cheers,
+Now trying my best to do justice to one of my last [names](https://www.youtube.com/watch?v=D5EtB7MnxI0&t=80s) and learn a bit more about the [5Cs](https://www.youtube.com/watch?v=KtPXuyfKIu4). Cheers,
 
 
 
