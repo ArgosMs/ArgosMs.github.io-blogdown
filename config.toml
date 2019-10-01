@@ -80,8 +80,9 @@ disableKinds = ["RSS"]
     
 [social]
     github = "ArgosMs"
-    twitter = "@PhantLle"
+    #twitter = "@PhantLle"
     instagram = "e.lle.phant"
+    facebook = "Elle Phant"
     
    
   
